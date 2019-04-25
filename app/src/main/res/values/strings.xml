@@ -9,4 +9,5 @@
         <item>Malaysia</item>
         <item>Japan</item>
     </string-array>
+    <string name="title_activity_add_word">AddWordActivity</string>
 </resources>
